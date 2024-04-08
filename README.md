@@ -1,0 +1,2 @@
+
+The toolkit includes modules for IP and domain analysis, packet sniffing, banner grabbing, ARP cache poisoning detection, WiFi scanning, and network vulnerability scanning. Each module utilizes Python libraries and tools such as ipwhois, geopy, Scapy, socket, Nmap, and more for various functionalities. Additionally, it offers logging capabilities for recording network activity and security events, with an optional user interface for easy interaction and result visualization.
